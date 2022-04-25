@@ -11,6 +11,6 @@ class Semver < Formula
   end
 
   test do
-    system "#{bin}/semver", "-h"
+    system "echo", "1.0.0", "|", "#{bin}/semver", "-t"
   end
 end
