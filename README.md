@@ -1,6 +1,6 @@
 # homebrew-semver
 
-Homebrew formulae for `semver`.
+Homebrew formulae for [`semver`](https://github.com/chriskilding/semver).
 
 ## Usage
 
